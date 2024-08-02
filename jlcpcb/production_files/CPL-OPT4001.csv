@@ -1,0 +1,13 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100nF,C_0402_1005Metric,117.0,-93.9,90.0,top
+C2,1uF,C_0402_1005Metric,116.68,-99.2211,-90.0,top
+C3,1uF,C_0402_1005Metric,111.01,-99.6911,180.0,top
+J1,Conn_01x04_MountingPin,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,108.664,-95.25,-90.0,top
+J2,Conn_01x04_MountingPin,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,129.334,-95.25,90.0,top
+J3,Conn_01x07_Pin,PinHeader_1x07_P2.54mm_Vertical,118.999,-102.87,270.0,bottom
+R1,1MR,R_0402_1005Metric,117.0,-95.9,-90.0,top
+R3,10kR,R_0402_1005Metric,121.1,-93.7,-90.0,top
+R4,10kR,R_0402_1005Metric,121.1,-96.8,90.0,top
+R6,10kR,R_0402_1005Metric,125.7,-99.8,0.0,top
+U1,OPT4001DNPRQ1,SOT-5X3,118.999,-95.25,0.0,top
+U2,XC6206PxxxMR,SOT-23-3,114.08,-98.7411,0.0,top
