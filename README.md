@@ -2,6 +2,10 @@
 
 A custom STEMMA QT compatible board featuring the OPT4001 high-precision ambient light sensor in SOT-5X3 package.
 
+<p align="center">
+  <img src="img/board.png" alt="OPT4001 STEMMA QT Board">
+</p>
+
 Features
 
 - 📏 STEMMA QT / Qwiic compatible
